@@ -1,0 +1,110 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sparklingcandle.com" resolutions="1x" timestamp="1480363890770">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="161554458" ref="index"/>
+    <file name="nomq_index.css" crc="378858337" ref="index"/>
+    <file name="billing.css" crc="479170093" ref="billing"/>
+    <file name="checkout.css" crc="4141050778" ref="checkout"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:billing:checkout"/>
+    <file name="museutils.js" crc="163421577" ref="index:billing:checkout"/>
+    <file name="whatinput.js" crc="86476730" ref="index:billing:checkout"/>
+    <file name="museconfig.js" crc="36584860" ref="index:billing:checkout"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:billing:checkout"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:billing:checkout"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:billing:checkout"/>
+    <file name="webpro.js" crc="3848665353" ref="billing:checkout"/>
+    <file name="form_check.php" crc="158155501" ref="billing"/>
+    <file name="form_throttle.php" crc="3992970984" ref="billing"/>
+    <file name="form_process.php" crc="4078697226" ref="billing"/>
+    <file name="form-u8204.php" crc="3823254643" ref="billing"/>
+    <file name="form-u8455.php" crc="488122691" ref="billing"/>
+    <file name="form-u8736.php" crc="4193418704" ref="checkout"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="4273502095" ref="index:billing:checkout"/>
+    <file name="u4751-4.png" crc="247935914" ref="index"/>
+    <file name="u4752-4.png" crc="313932756" ref="index"/>
+    <file name="232.jpg" crc="7371254" ref="index"/>
+    <file name="u3259-8.png" crc="4062158847" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:billing"/>
+    <file name="u5261_states.png" crc="67473657" ref="index"/>
+    <file name="u5261_states-r.png" crc="67473657" ref="index"/>
+    <file name="jasmine-flower-wallpaper5-2.jpg" crc="122909906" ref="index"/>
+    <file name="u3258-6.png" crc="240438766" ref="index"/>
+    <file name="12.jpg" crc="500566455" ref="index"/>
+    <file name="u3257-6.png" crc="335891644" ref="index"/>
+    <file name="u5220_states.png" crc="67473657" ref="index"/>
+    <file name="u5220_states-r.png" crc="67473657" ref="index"/>
+    <file name="u5479-4.png" crc="4083147498" ref="index"/>
+    <file name="pat.jpg" crc="3760908686" ref="index"/>
+    <file name="4.jpg" crc="275055704" ref="index"/>
+    <file name="u5613.png" crc="4043606112" ref="index"/>
+    <file name="u5613-r.png" crc="4043606112" ref="index"/>
+    <file name="5.jpg" crc="3790023288" ref="index"/>
+    <file name="u7523_states.png" crc="4043606112" ref="index"/>
+    <file name="u7523_states-r.png" crc="4043606112" ref="index"/>
+    <file name="6.jpg" crc="4158871890" ref="index"/>
+    <file name="u7482_states.png" crc="4043606112" ref="index"/>
+    <file name="u7482_states-r.png" crc="4043606112" ref="index"/>
+    <file name="3.jpg" crc="4294273945" ref="index"/>
+    <file name="u7441.png" crc="4043606112" ref="index"/>
+    <file name="u7441-r.png" crc="4043606112" ref="index"/>
+    <file name="u7375-6.png" crc="447420553" ref="index"/>
+    <file name="u7400.png" crc="4284073184" ref="index"/>
+    <file name="u7400-r.png" crc="4284073184" ref="index"/>
+    <file name="break-icon-instagramw.png" crc="11744127" seo="true" ref="index:billing:checkout"/>
+    <file name="1963ac_64eb97add73944709f6c9d4c1ed7370e~mv2_d_1200_1200_s_2w.png" crc="325364194" seo="true" ref="index:billing:checkout"/>
+    <file name="1480366373_facebook_circle_colorw.png" crc="182247928" seo="true" ref="index:billing:checkout"/>
+    <file name="u4752-42.png" crc="330571465" ref="index"/>
+    <file name="u4751-42.png" crc="455315799" ref="index"/>
+    <file name="u5261_states2.png" crc="67473657" ref="index"/>
+    <file name="u5261_states-r2.png" crc="67473657" ref="index"/>
+    <file name="u3259-82.png" crc="4062158847" ref="index"/>
+    <file name="jasmine-flower-wallpaper5-2-u4067-fr.jpg" crc="432221055" ref="index"/>
+    <file name="u3258-62.png" crc="240438766" ref="index"/>
+    <file name="u3257-62.png" crc="335891644" ref="index"/>
+    <file name="u5220_states2.png" crc="67473657" ref="index"/>
+    <file name="u5220_states-r2.png" crc="67473657" ref="index"/>
+    <file name="u5479-42.png" crc="87883764" ref="index"/>
+    <file name="4-u5301-fr.jpg" crc="299581370" ref="index"/>
+    <file name="u7523_states2.png" crc="4043606112" ref="index"/>
+    <file name="u7523_states-r2.png" crc="4043606112" ref="index"/>
+    <file name="5-u5319-fr.jpg" crc="3931581609" ref="index"/>
+    <file name="u7482_states2.png" crc="4043606112" ref="index"/>
+    <file name="u7482_states-r2.png" crc="4043606112" ref="index"/>
+    <file name="3-u5343-fr.jpg" crc="4031464298" ref="index"/>
+    <file name="u74412.png" crc="4043606112" ref="index"/>
+    <file name="u7441-r2.png" crc="4043606112" ref="index"/>
+    <file name="6-u5367-fr.jpg" crc="481021131" ref="index"/>
+    <file name="u56132.png" crc="4043606112" ref="index"/>
+    <file name="u5613-r2.png" crc="4043606112" ref="index"/>
+    <file name="u7375-62.png" crc="447420553" ref="index"/>
+    <file name="u74002.png" crc="4284073184" ref="index"/>
+    <file name="u7400-r2.png" crc="4284073184" ref="index"/>
+    <file name="u8046-4.png" crc="330571465" ref="billing"/>
+    <file name="u8045-4-a.png" crc="455315799" ref="billing"/>
+    <file name="u8330-4.png" crc="29791458" ref="billing"/>
+    <file name="u8333-4.png" crc="326265265" ref="billing"/>
+    <file name="4-u8387-fr.jpg" crc="253079627" ref="billing:checkout"/>
+    <file name="5-u8388-fr.jpg" crc="4031509919" ref="billing:checkout"/>
+    <file name="3-u8389-fr.jpg" crc="3940306060" ref="billing:checkout"/>
+    <file name="6-u8390-fr.jpg" crc="420408348" ref="billing:checkout"/>
+    <file name="u9050_states.png" crc="482379116" ref="billing"/>
+    <file name="u9050_states-r.png" crc="482379116" ref="billing"/>
+    <file name="u8656-4.png" crc="330571465" ref="checkout"/>
+    <file name="u8655-4.png" crc="455315799" ref="checkout"/>
+    <file name="u9009-4.png" crc="3978781319" ref="checkout"/>
+    <file name="u8758-4.png" crc="4058893235" ref="checkout"/>
+    <file name="u8757-4.png" crc="4251980919" ref="checkout"/>
+    <file name="u8982-4.png" crc="4290516324" ref="checkout"/>
+    <file name="u9004-4.png" crc="4211281422" ref="checkout"/>
+    <file name="u9003-4.png" crc="209040921" ref="checkout"/>
+  </folder>
+  <file name="index.html" crc="4165357926" seo="true" mt="1480363852211" redirect="true"/>
+  <file name="billing.html" crc="487889275" seo="true" mt="1480363864414" redirect="true"/>
+  <file name="checkout.html" crc="215283331" seo="true" mt="1480363875087" redirect="true"/>
+</manifest>
